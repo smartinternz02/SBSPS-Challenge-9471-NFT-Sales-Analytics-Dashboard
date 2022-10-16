@@ -2,6 +2,7 @@
 NFT Sales Analytics Dashboard
 
 **Team name:** Team Eccentrics
+
 **Steps to access UI:**
 
 First open myibm.ibm.com and login using my credentials.  
